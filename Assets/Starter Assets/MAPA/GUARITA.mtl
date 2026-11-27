@@ -1,0 +1,11 @@
+newmtl tripo_material_1d8c7edf_fbf8_4339_a7b8_f222c3901183
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd GUARITA_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr GUARITA_roughness.png
+map_Pm GUARITA_metallic.png
+norm GUARITA_normal.png
+

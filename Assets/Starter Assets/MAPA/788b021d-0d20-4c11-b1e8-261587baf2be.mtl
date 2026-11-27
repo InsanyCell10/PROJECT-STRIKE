@@ -1,0 +1,11 @@
+newmtl tripo_material_8b0f77a7_da1a_43a4_a544_1e4364776fe6
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd 788b021d-0d20-4c11-b1e8-261587baf2be_basecolor.jpg
+Pr 1.000000000
+Pm 1.000000000
+map_Pr 788b021d-0d20-4c11-b1e8-261587baf2be_roughness.png
+map_Pm 788b021d-0d20-4c11-b1e8-261587baf2be_metallic.png
+norm 788b021d-0d20-4c11-b1e8-261587baf2be_normal.png
+
